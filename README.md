@@ -7,13 +7,18 @@
 </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" width="400" height="200"/>
-</div>
-▷▷:woman_technologist: About Me :
-I study in the direction of applied mathematics and computer science: data analysis and mathematical modeling:student:
-▷In my free time, I solve problems on Kaggle and read tech articles.
-:hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;
+- :woman_technologist:About Me :
+  
+- :student: I study in the direction of applied mathematics and computer science: data analysis and mathematical modeling.
+  
+- :fox_face: In my free time, I solve problems on Kaggle and read tech articles.
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original-wordmark.svg" alt="Numpy" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/opencv/opencv-original-wordmark.svg" alt="Opencv" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40"/>&nbsp;
